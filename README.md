@@ -107,4 +107,3 @@ wp-content/themes/
 7. Add ACF fields in Theme Settings
 
 
-If you want, I can also give you a **short professional description** to paste in the GitHub repo description section 👌
